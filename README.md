@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fortressokorie
-- 👀 I’m interested in statistics and data science particularly its applications in publich health and sports
+- 👀 Undergrad Math and Stats/Data Science Student
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on small data science to start and scaling as I improve
-- 📫 How to reach me okorie1@stolaf.edu
+- 📫 How to reach me: okorie1@stolaf.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm working on a cookbook
 
